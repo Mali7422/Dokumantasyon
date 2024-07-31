@@ -5,7 +5,7 @@ SayfaTipi: Liste
 
 # Sözleşme Listesi (Satış)
 
-**Erişim Linki :** [erp.aaro.com.tr/SiparisListe/Liste?TipID=10013,10016&TarihBas=!AyBasi(-3)&Kapali=false](erp.aaro.com.tr/SiparisListe/Liste?TipID=10013,10016&TarihBas=!AyBasi(-3)&Kapali=false)
+**Erişim Linki :** [erp.aaro.com.tr/SiparisListe/Liste?TipID=10013,10016&TarihBas=!AyBasi(-3)&Kapali=false](https://erp.aaro.com.tr/SiparisListe/Liste?TipID=10013,10016&TarihBas=!AyBasi(-3)&Kapali=false)
 
 Satış sözleşme listesi, bir işletmenin müşterileriyle yaptığı tüm satış sözleşmelerini içeren, sözleşme numaraları, tarihleri, müşteri bilgileri, satılan ürün veya hizmetler ve sözleşme şartları gibi bilgileri içeren bir dökümdür. 
 Bu liste, sözleşmelerin takibi ve yönetimi için kullanılır.

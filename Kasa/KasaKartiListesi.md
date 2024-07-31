@@ -5,7 +5,7 @@ SayfaTipi: KartListe
 
 # Kasa Kartı Listesi
 
-**Erişim Linki :** [erp.aaro.com.tr/Kasa/Liste](erp.aaro.com.tr/Kasa/Liste)
+**Erişim Linki :** [erp.aaro.com.tr/Kasa/Liste](https://erp.aaro.com.tr/Kasa/Liste)
 
 ### Ulaşım
 

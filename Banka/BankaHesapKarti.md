@@ -5,7 +5,7 @@ SayfaTipi: Kart
 
 # Banka Hesap Kartı
 
-**Erişim Linki :** [erp.aaro.com.tr/BankaHesap/Kalem](erp.aaro.com.tr/BankaHesap/Kalem)
+**Erişim Linki :** [erp.aaro.com.tr/BankaHesap/Kalem](https://erp.aaro.com.tr/BankaHesap/Kalem)
 
 ### Ulaşım
 Aşağıdaki gibi ulaşım sağlayabilirsiniz:
@@ -64,30 +64,30 @@ Muhasebeleşme tanımlarını ayarlayarak bu kart için hareket işlendiğinde o
 
 ## Kaydetme ve Silme
 
-- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işlemimizi tamamlayabilirsiniz.
-- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayarak silebilirsiniz.
+- Doldurulması gereken alanlar girildikten sonra sağ alt köşede bulunan Kaydet butonuna tıklayarak Müşteri/Satıcı kartı açma işleminizi tamamlayabilirsiniz.
+- Kayıtlı bir kartı silmek için sol altta bulunan sil butonuna tıklayın.
 
 ## Kısayollar
 
-Kartta bulunan kısayolları sekmesi ile cariye ait ilgili raporlara ve öncelikli sayfalara kolayca ulaşabilirsiniz.
+Kartta bulunan kısayollar sekmesine, cariye ait ilgili raporlara ve öncelikli sayfalara kolayca ulaşabilirsiniz.
 
 - Liste
     - **Hareketleri Bugün** linki ile banka hesap kartına ait bugünün hareketlerine ve bakiye bilgisine ulaşabilirsiniz.
-	- **Hareketleri** linki ile banka hesap kartına ait hareketlerine ve bakiye bilgisine ulaşabilirsiniz.
+	- **Hareketleri** linki ile banka hesap kartına ait hareketlere ve bakiye bilgisine ulaşabilirsiniz.
 
 ## Kayıt Bilgileri
 
 Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kart iş akış süreçlerine dahil edildiğinde ise hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
 
 ## Yazdır
 
-- Sayfanın sağ üstünde bulunan yazıcı sembolü ile sayfaya tanımlanan özel çıktı formatları ile farklı çıktılar alınabilir. 
-- Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
-- Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
+- Sayfanın sağ üstünde bulunan yazıcı sembolü ile sayfaya tanımlanan özel çıktı formatları üzerinden farklı çıktılar alınabilir. 
+- Kartta bulunan bilgilerin, kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
+- Birden çok çıktı tasarımı yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel ekstre, dövizli ekstre gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 
@@ -99,19 +99,19 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 
 ## Belgeler
 
-Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Yapacağınız işlem için elinizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebilirsiniz.
+Buraya işlem gerçekleşirkenki görselleri yükleyebilirsiniz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek aşağıdaki yolları izleyiniz:
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- **Belge ekle bölmesi -> daha önce yüklediklerimden seç -> belgeyi seçin -> İlişkilendir** şeklinde belge yükleme işlemimizi gerçekleştirebilirsiniz.
+- **Belge ekle bölmesi -> yüklenecek belge veya resimleri seçin -> istediğiniz belgeyi ya da belgeleri seçin -> Yükle** şeklinde belge yükleme işlemimizi gerçekleştirebilirsiniz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
 ## Notlar 
 
-İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
+İşleme ait özel notlar belirtebilirsiniz. 
+Önemli bir detay var ise bu detayları burada belirtebilirsiniz.
 Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
 

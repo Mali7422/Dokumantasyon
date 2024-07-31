@@ -5,12 +5,13 @@ SayfaTipi: HareketListe
 
 # POS Hesaba Geçiş Tanımı
 
-**Erişim Linki :** [erp.aaro.com.tr/KrediPosKosul/Liste](erp.aaro.com.tr/KrediPosKosul/Liste)
+**Erişim Linki :** [erp.aaro.com.tr/KrediPosKosul/Liste](https://erp.aaro.com.tr/KrediPosKosul/Liste)
 
 ### Ulaşım 
+Aşağıdaki şekillerde ulaşım sağlayabilirsiniz:
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "pos" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Banka -> Kartlar -> POS Hesaba Geçiş Tanımı Listesi üzerinden ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "**pos**" ifadesini aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden **Banka -> Kartlar -> POS Hesaba Geçiş Tanımı Listesi** üzerinden ulaşım sağlayabilirsiniz.
 
 ### Tanım
 
@@ -29,7 +30,7 @@ Bu süreç, pos cihazı ile yapılan ödemelerin işletme hesaplarına güvenli 
 ### Ek Özellikler 
 
 - Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
-- Sayfada ki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
+- Sayfadaki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
 
 ## Yeni POS Hesaba Geçiş Tanımı Ekle
 
@@ -57,7 +58,7 @@ Bu süreç, pos cihazı ile yapılan ödemelerin işletme hesaplarına güvenli 
 
 **Yuvarlama İlk Vadede:**
 
-**Aşağıda değiştirilen değerler tüm taksit seçenekleri için otomatik uygulanır.**
+- **Aşağıda değiştirilen değerler tüm taksit seçenekleri için otomatik uygulanır.**
 
 **Min Taksit:**
 
@@ -67,11 +68,11 @@ Bu süreç, pos cihazı ile yapılan ödemelerin işletme hesaplarına güvenli 
 
 **Vade Tip:**
 
-**Taksit Kom.**
+**Taksit Komisyonu:**
 
-**Puan Kom.**
+**Puan Komisyonu:**
 
-**İşlem Kom.**
+**İşlem Komisyonu:**
 
 **Sabit Mas. Oran:**
 

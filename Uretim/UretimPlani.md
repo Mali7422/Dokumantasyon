@@ -5,7 +5,7 @@ SayfaTipi: PlanDetay
 
 # Üretim Planı
 
-**Erişim Linki :** [erp.aaro.com.tr/UrIsEmriPlan/PlanDetay](erp.aaro.com.tr/UrIsEmriPlan/PlanDetay)
+**Erişim Linki :** [erp.aaro.com.tr/UrIsEmriPlan/PlanDetay](https://erp.aaro.com.tr/UrIsEmriPlan/PlanDetay)
 
 ### Ulaşım
 

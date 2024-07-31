@@ -5,7 +5,7 @@ SayfaTipi: Kart
 
 ## Demirbaş Kartı
 
-**Erişim Linki :** [erp.aaro.com.tr/Demirbas/Kalem](erp.aaro.com.tr/Demirbas/Kalem)
+**Erişim Linki :** [erp.aaro.com.tr/Demirbas/Kalem](https://erp.aaro.com.tr/Demirbas/Kalem)
 
 ### Ulaşım
 

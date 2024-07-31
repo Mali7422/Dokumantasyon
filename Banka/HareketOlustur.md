@@ -8,8 +8,8 @@ SayfaTipi: Hareket Olustur
 ### Genel
 
 - [Havale EFT Alma](../TemelHareketler/HavaleEftAlma.md)
-- [Havale EFT Gönderme](TemelHareketler/HavaleEftGonderme.md)
-- [Bankadan Gider Hareketi](../TemelHareketler/BankadanGiderHareketi.md)
+- [Havale EFT Gönderme](../TemelHareketler/HavaleEftGonderme.md)
+- [Banka Gider Hareketi](../TemelHareketler/BankaGiderHareketi.md)
 - [Banka Gelir Hareketi](../TemelHareketler/BankaGelirHareketi.md)
 - [Banka Hesapları Arası Transfer](../TemelHareketler/BankaHesaplariArasiTransfer.md)
 - [Pos Tahsilat](../TemelHareketler/PosTahsilat.md)
@@ -21,8 +21,8 @@ SayfaTipi: Hareket Olustur
 - [Bankadan Para Çekme](../TemelHareketler/BankadanParaCekme.md)
 - [Pos Hesaptan Hesaba Geçiş](../TemelHareketler/PosHesaptanHesabaGecis.md)
 - [Çek Bankaya Tahsile Verildi](../TemelHareketler/CekBankayaTahsileVerildi.md)
-- [Senet Bankaya Tahsile Verildi](../TemelHareketler/CekBankayaTahsileVerildi.md)
-- [Senet Bankadan Tahsil Edildi](../TemelHareketler/CekBankadanTahsilEdildi.md)
+- [Senet Bankaya Tahsile Verildi](../TemelHareketler/SenetBankayaTahsileVerildi.md)
+- [Senet Bankadan Tahsil Edildi](../TemelHareketler/SenetBankadanTahsilEdildi.md)
 - [Senet Bankadan İade Alındı](../TemelHareketler/SenetBankadanİadeAlindi.md)
 - [Devir](../TemelHareketler/Devir.md)
 - [Karma Transfer Hareketi](../TemelHareketler/KarmaTransferHareketi.md)

@@ -5,7 +5,7 @@ SayfaTipi: KartListe
 
 # Yeni Reçete Taslağı Ekle
 
-**Erişim Linki :** [erp.aaro.com.tr/UrRecete/Liste](erp.aaro.com.tr/UrRecete/Liste)
+**Erişim Linki :** [erp.aaro.com.tr/UrRecete/Liste](https://erp.aaro.com.tr/UrRecete/Liste)
 
 ### Ulaşım 
 

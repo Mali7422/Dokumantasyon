@@ -5,7 +5,7 @@ SayfaTipi: HizliUretimKalem
 
 # Hızlı Üretim Hareketi Girişi
 
-**Erişim Linki :** [erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem](erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem)
+**Erişim Linki :** [erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem](https://erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem)
 
 ### Ulaşım
 

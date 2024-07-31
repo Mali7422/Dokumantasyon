@@ -5,7 +5,7 @@ SayfaTipi: Modul
 
 # ÜRETİM 
 
-**Erişim Linki :** [erp.aaro.com.tr/UretimModulu](erp.aaro.com.tr/UretimModulu)
+**Erişim Linki :** [erp.aaro.com.tr/UretimModulu](https://erp.aaro.com.tr/UretimModulu)
 
 Üretim modülü, ürünlerinizin üretim süreçlerini, aşamalarını planlayabilir, yönetebilir ve izleyebilirsiniz.
 Üretim modülünde, üretim süreçlerinizi gerçek zamanlı olarak izleyebilirsiniz. 

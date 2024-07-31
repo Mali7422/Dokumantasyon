@@ -5,7 +5,7 @@ SayfaTipi: Teklif
 
 # Verilen Teklif
 
-**Erişim Linki :** [erp.aaro.com.tr/FaturaVerilenTeklif](erp.aaro.com.tr/FaturaVerilenTeklif)
+**Erişim Linki :** [erp.aaro.com.tr/FaturaVerilenTeklif](https://erp.aaro.com.tr/FaturaVerilenTeklif)
 
 ## Ulaşım 
 

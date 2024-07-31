@@ -5,7 +5,7 @@ SayfaTipi: KartListe
 
 # Gelir Gider Kartı Listesi
 
-**Erişim Linki :** [erp.aaro.com.tr/Cari/Liste](erp.aaro.com.tr/Cari/Liste)
+**Erişim Linki :** [erp.aaro.com.tr/Cari/Liste](https://erp.aaro.com.tr/Cari/Liste)
 
 ### Ulaşım 
 

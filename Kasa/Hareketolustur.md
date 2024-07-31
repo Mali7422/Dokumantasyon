@@ -6,7 +6,7 @@ SayfaTipi: Hareket Olustur
 ### Kasa Hareketleri 
 
 - [Nakit Tahsilat](../TemelHareketler/NakitTahsilat.md)
-- [Nakit Ödeme](TemelHareketler/NakitOdeme.md)
+- [Nakit Ödeme](../TemelHareketler/NakitOdeme.md)
 - [Kasadan Gider Hareketi](../TemelHareketler/KasadanGiderHareketi.md)
 - [Kasa Gelir Hareketi](../TemelHareketler/KasaGelirHareketi.md)
 - [Kasa Hesapları Arası Transfer](../TemelHareketler/KasaHesaplariArasiTransfer.md)

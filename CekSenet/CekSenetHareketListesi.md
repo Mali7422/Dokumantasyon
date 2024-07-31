@@ -5,7 +5,7 @@ SayfaTipi: HareketListe
 
 # Çek/Senet Hareket Listesi
 
-**Erişim Linki :** [erp.aaro.com.tr/CekSenetHareketleri/Liste](erp.aaro.com.tr/CekSenetHareketleri/Liste)
+**Erişim Linki :** [erp.aaro.com.tr/CekSenetHareketleri/Liste](https://erp.aaro.com.tr/CekSenetHareketleri/Liste)
 
 ### Ulaşım 
 

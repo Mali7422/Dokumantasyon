@@ -5,7 +5,7 @@ SayfaTipi: Fatura
 
 # Satış İade Faturası
 
-**Erişim Linki :** [erp.aaro.com.tr/FaturaSatisIadeFaturasi](erp.aaro.com.tr/FaturaSatisIadeFaturasi)
+**Erişim Linki :** [erp.aaro.com.tr/FaturaSatisIadeFaturasi](https://erp.aaro.com.tr/FaturaSatisIadeFaturasi)
 
 ### Ulaşım
 

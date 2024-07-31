@@ -5,7 +5,7 @@ SayfaTipi: Kart
 
 ## Kasa Kartı
 
-**Erişim Linki :** [erp.aaro.com.tr/Kasa/Kalem](erp.aaro.com.tr/Kasa/Kalem)
+**Erişim Linki :** [erp.aaro.com.tr/Kasa/Kalem](https://erp.aaro.com.tr/Kasa/Kalem)
 
 ### Ulaşım
 

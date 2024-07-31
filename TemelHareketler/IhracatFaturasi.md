@@ -1,7 +1,7 @@
 
 # İhracat Faturası
 
-**Erişim Linki :** [erp.aaro.com.tr/FaturaSatisFaturasi](erp.aaro.com.tr/FaturaSatisFaturasi)
+**Erişim Linki :** [erp.aaro.com.tr/FaturaSatisFaturasi](https://erp.aaro.com.tr/FaturaSatisFaturasi)
 
 ### Ulaşım
 

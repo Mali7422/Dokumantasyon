@@ -5,7 +5,7 @@ SayfaTipi: Modul
 
 # Çek/Senet Modülü
 
-**Erişim Linki :** [erp.aaro.com.tr/CekSenetModulu](erp.aaro.com.tr/CekSenetModulu)
+**Erişim Linki :** [erp.aaro.com.tr/CekSenetModulu](https://erp.aaro.com.tr/CekSenetModulu)
 
 ### Tanım 
 

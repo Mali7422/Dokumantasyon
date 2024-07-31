@@ -5,7 +5,7 @@ SayfaTipi: Modul
 
 # Satış Pazarlama Modülü
 
-**Erişim Linki :** [erp.aaro.com.tr/SatisPazarlamaModulu](erp.aaro.com.tr/SatisPazarlamaModulu)
+**Erişim Linki :** [erp.aaro.com.tr/SatisPazarlamaModulu](https://erp.aaro.com.tr/SatisPazarlamaModulu)
 
 Bu kısımda; Satışın her aşamasınında tekliften satışa kadar olan bütün süreçleri bıuradan takip edebilirsiniz.
 Teklif formu, sipariş formu, irsaliye, fatura işlemlerinizi buradan gerçekleştirebilirsiniz.

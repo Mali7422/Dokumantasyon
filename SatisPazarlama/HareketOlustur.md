@@ -6,7 +6,7 @@ SayfaTipi: Hareket Olustur
 ## Satış Pazarlama Hareketleri 
 
 - [Satış Faturası](../TemelHareketler/SatisFaturasi.md)
-- [Satış İrsaliyesi](TemelHareketler/Satisİrsaliyesi.md)
+- [Satış İrsaliyesi](../TemelHareketler/Satisİrsaliyesi.md)
 - [Nakit Tahsilat](../TemelHareketler/NakitTahsilat.md)
 - [Pos Tahsilat](../TemelHareketler/PosTahsilat.md)
 - [Depolar Arası Transfer](../TemelHareketler/DepolarArasiTransfer.md)

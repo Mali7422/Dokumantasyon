@@ -5,7 +5,7 @@ SayfaTipi: Liste
 
 # Üretim Hareketi Kullanılan Hammaddeler Listesi
 
-**Erişim Linki :** [erp.aaro.com.tr/UrAkisOperasyonHammadde/Liste](erp.aaro.com.tr/UrAkisOperasyonHammadde/Liste)
+**Erişim Linki :** [erp.aaro.com.tr/UrAkisOperasyonHammadde/Liste](https://erp.aaro.com.tr/UrAkisOperasyonHammadde/Liste)
 
 ## Ulaşım
 

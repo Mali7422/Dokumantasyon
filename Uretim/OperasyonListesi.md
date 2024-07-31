@@ -5,7 +5,7 @@ SayfaTipi: KartListe
 
 # Operasyon 
 
-**Erişim Linki :** [erp.aaro.com.tr/UrOperasyon/Liste](erp.aaro.com.tr/UrOperasyon/Liste)
+**Erişim Linki :** [erp.aaro.com.tr/UrOperasyon/Liste](https://erp.aaro.com.tr/UrOperasyon/Liste)
 
 ### Ulaşım
 

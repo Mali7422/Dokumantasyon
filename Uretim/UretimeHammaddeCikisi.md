@@ -5,7 +5,7 @@ SayfaTipi: Hareket
 
 # Üretime Hammadde Çıkışı
 
-**Erişim Linki :** [erp.aaro.com.tr/UretimeHammaddeCikisi](erp.aaro.com.tr/UretimeHammaddeCikisi)
+**Erişim Linki :** [erp.aaro.com.tr/UretimeHammaddeCikisi](https://erp.aaro.com.tr/UretimeHammaddeCikisi)
 
 ## Ulaşım
 

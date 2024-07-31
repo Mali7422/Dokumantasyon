@@ -5,7 +5,7 @@ SayfaTipi: Liste
 
 # Sipariş Listesi (Satış)
 
-**Erişim Linki :** [erp.aaro.com.tr/SiparisListe/Liste?TipID=10013,10016&TarihBas=!AyBasi(-3)&Kapali=false](erp.aaro.com.tr/SiparisListe/Liste?TipID=10013,10016&TarihBas=!AyBasi(-3)&Kapali=false)
+**Erişim Linki :** [erp.aaro.com.tr/SiparisListe/Liste?TipID=10013,10016&TarihBas=!AyBasi(-3)&Kapali=false](https://erp.aaro.com.tr/SiparisListe/Liste?TipID=10013,10016&TarihBas=!AyBasi(-3)&Kapali=false)
 
 Satış sipariş listesi, bir işletmenin müşterilerinden aldığı tüm siparişleri içeren, sipariş numaraları, tarihleri, müşteri bilgileri, sipariş edilen ürün veya hizmetler ve miktarları gibi bilgileri içeren bir dökümdür. 
 Bu liste, siparişlerin takibi ve yönetimi için kullanılır.

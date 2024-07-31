@@ -5,7 +5,7 @@ SayfaTipi: Siparis
 
 # Alınan Sipariş
 
-**Erişim Linki :** [erp.aaro.com.tr/FaturaAlinanSiparis](erp.aaro.com.tr/FaturaAlinanSiparis)
+**Erişim Linki :** [erp.aaro.com.tr/FaturaAlinanSiparis](https://erp.aaro.com.tr/FaturaAlinanSiparis)
 
 ## Ulaşım 
 

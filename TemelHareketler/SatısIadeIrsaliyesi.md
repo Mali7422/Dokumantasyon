@@ -5,7 +5,7 @@ SayfaTipi: Irsaliye
 
 # Satış İade İrsaliyesi
 
-**Erişim Linki :** [erp.aaro.com.tr/FaturaSatisIadeIrsaliyesi](erp.aaro.com.tr/FaturaSatisIadeIrsaliyesi)
+**Erişim Linki :** [erp.aaro.com.tr/FaturaSatisIadeIrsaliyesi](https://erp.aaro.com.tr/FaturaSatisIadeIrsaliyesi)
 
 ### Ulaşım
 

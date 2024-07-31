@@ -5,7 +5,7 @@ SayfaTipi: Kart
 
 # Taslak Reçete Listesi 
 
-**Erişim Linki :** [erp.aaro.com.tr/Cari/Kalem](erp.aaro.com.tr/Cari/Kalem)
+**Erişim Linki :** [erp.aaro.com.tr/Cari/Kalem](https://erp.aaro.com.tr/Cari/Kalem)
 
 ### Ulaşım
 

@@ -5,7 +5,7 @@ SayfaTipi:
 
 # Üretimden Mamül Giriş
 
-**Erişim Linki :** [erp.aaro.com.tr/UretimdenMamulGirisi](erp.aaro.com.tr/UretimdenMamulGirisi)
+**Erişim Linki :** [erp.aaro.com.tr/UretimdenMamulGirisi](https://erp.aaro.com.tr/UretimdenMamulGirisi)
 
 ### Ulaşım
 

@@ -5,7 +5,7 @@ SayfaTipi: Fatura
 
 # Depolar Arası Transfer - Doğrudan Sevk
 
-**Erişim Linki :** [erp.aaro.com.tr/FaturaDepolarArasiTransfer?DogrudanSevk=True](erp.aaro.com.tr/FaturaDepolarArasiTransfer?DogrudanSevk=True)
+**Erişim Linki :** [erp.aaro.com.tr/FaturaDepolarArasiTransfer?DogrudanSevk=True](https://erp.aaro.com.tr/FaturaDepolarArasiTransfer?DogrudanSevk=True)
 
 ## Ulaşım
 

@@ -5,7 +5,7 @@ SayfaTipi:
 
 # Hızlı Üretim Hareketi Girişi (Sadece İşçilik)
 
-**Erişim Linki :** [erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem?SadeceIscilik=true](erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem?SadeceIscilik=true)
+**Erişim Linki :** [erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem?SadeceIscilik=true](https://erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem?SadeceIscilik=true)
 
 ### Ulaşım
 

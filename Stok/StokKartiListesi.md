@@ -5,7 +5,7 @@ SayfaTipi: KartListe
 
 # Stok Kartı Listesi
 
-**Erişim Linki :** [erp.aaro.com.tr/Stok/Liste](erp.aaro.com.tr/Stok/Liste)
+**Erişim Linki :** [erp.aaro.com.tr/Stok/Liste](https://erp.aaro.com.tr/Stok/Liste)
 
 ### Ulaşım
 

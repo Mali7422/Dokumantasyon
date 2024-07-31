@@ -1,10 +1,10 @@
 
-# Bankadan Gider Hareketi
+# Banka Gider Hareketi
 
 ## Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'Banka gider hareketi' aratarak ulaşım sağlayabilirsiniz.
-- Sol sekmede yer alan modüller kısmından Banka -> Hareket Oluştur -> Bankadan Gider Hareketi şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede yer alan modüller kısmından Banka -> Hareket Oluştur -> Banka Gider Hareketi şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
 

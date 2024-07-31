@@ -5,7 +5,7 @@ SayfaTipi: Liste
 
 # Üretim Hareketi Çalışan Personeller Listesi
 
-**Erişim Linki :** [erp.aaro.com.tr/UrAkisOperasyonPersonel/Liste](erp.aaro.com.tr/UrAkisOperasyonPersonel/Liste)
+**Erişim Linki :** [erp.aaro.com.tr/UrAkisOperasyonPersonel/Liste](https://erp.aaro.com.tr/UrAkisOperasyonPersonel/Liste)
 
 ## Ulaşım
 

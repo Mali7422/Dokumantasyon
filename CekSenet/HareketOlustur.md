@@ -8,7 +8,7 @@ SayfaTipi: Hareket Olustur
 ### Çekler
 
 - [Çek Ciro Edildi/Verildi](../TemelHareketler/CekCiroEdildi_Verildi.md)
-- [Çek Alındı Kaydı](TemelHareketler/CekAlindiKaydi.md)
+- [Çek Alındı Kaydı](../TemelHareketler/CekAlindiKaydi.md)
 - [Çek Bankaya Tahsile Verildi](../TemelHareketler/CekBankayaTahsileVerildi.md)
 - [Çek Bankadan Tahsil Edildi](../TemelHareketler/CekBankadanTahsilEdildi.md)
 - [Çek Bankadan Ödendi](../TemelHareketler/CekBankadanÖdendi.md)
@@ -27,7 +27,7 @@ SayfaTipi: Hareket Olustur
 ### Senetler
 
 - [Senet Alındı](../TemelHareketler/SenetAlindi.md)
-- [Senet Ciro Edildi/Verildi](TemelHareketler/CekCiroEdildi_Verildi.md)
+- [Senet Ciro Edildi/Verildi](../TemelHareketler/CekCiroEdildi_Verildi.md)
 - [Senet Bankaya Tahsile Verildi](../TemelHareketler/CekBankayaTahsileVerildi.md)
 - [Senet Bankadan Tahsil Edildi](../TemelHareketler/CekBankadanTahsilEdildi.md)
 - [Senet Kasadan Ödendi](../TemelHareketler/SenetKasadanOdendi.md)

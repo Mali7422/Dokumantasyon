@@ -5,7 +5,7 @@ SayfaTipi: KartListe
 
 # Demirbaş Hesap Kartı Listesi
 
-**Erişim Linki :** [erp.aaro.com.tr/Demirbas/Liste](erp.aaro.com.tr/Demirbas/Liste)
+**Erişim Linki :** [erp.aaro.com.tr/Demirbas/Liste](https://erp.aaro.com.tr/Demirbas/Liste)
 
 ### Ulaşım 
 

@@ -5,7 +5,7 @@ SayfaTipi: HareketListe
 
 # Gelir Gider Hareketleri Listesi
 
-**Erişim Linki :** [erp.aaro.com.tr/GelirGiderHareketleri/Liste](erp.aaro.com.tr/GelirGiderHareketleri/Liste)
+**Erişim Linki :** [erp.aaro.com.tr/GelirGiderHareketleri/Liste](https://erp.aaro.com.tr/GelirGiderHareketleri/Liste)
 
 ### Ulaşım 
 

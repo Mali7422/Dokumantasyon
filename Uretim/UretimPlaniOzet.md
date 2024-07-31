@@ -5,7 +5,7 @@ SayfaTipi: UretimPlaniToplam
 
 # Üretim Planı Özet 
 
-**Erişim Linki :** [erp.aaro.com.tr/UrIsEmriPlan/UretimPlaniToplam](erp.aaro.com.tr/UrIsEmriPlan/UretimPlaniToplam)
+**Erişim Linki :** [erp.aaro.com.tr/UrIsEmriPlan/UretimPlaniToplam](https://erp.aaro.com.tr/UrIsEmriPlan/UretimPlaniToplam)
 
 ### Ulaşım
 

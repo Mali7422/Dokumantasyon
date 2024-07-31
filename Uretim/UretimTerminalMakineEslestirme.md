@@ -5,7 +5,7 @@ SayfaTipi: KartListe
 
 # Üretim Terminali Makine Eşleştirme
 
-**Erişim Linki :** [erp.aaro.com.tr/UrMakineKullanici/Liste](erp.aaro.com.tr/UrMakineKullanici/Liste)
+**Erişim Linki :** [erp.aaro.com.tr/UrMakineKullanici/Liste](https://erp.aaro.com.tr/UrMakineKullanici/Liste)
 
 ### Ulaşım
 

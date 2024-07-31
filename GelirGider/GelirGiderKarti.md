@@ -5,7 +5,7 @@ SayfaTipi: Kart
 
 ## Gelir Gider Kartı
 
-**Erişim Linki :** [erp.aaro.com.tr/GelirGider/Kalem](erp.aaro.com.tr/GelirGider/Kalem)
+**Erişim Linki :** [erp.aaro.com.tr/GelirGider/Kalem](https://erp.aaro.com.tr/GelirGider/Kalem)
 
 ### Ulaşım
 

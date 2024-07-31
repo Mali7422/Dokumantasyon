@@ -5,7 +5,7 @@ SayfaTipi: HareketListe
 
 # Demirbaş Hareket Listesi
 
-**Erişim Linki :** [erp.aaro.com.tr/DemirbasHareketleri/Liste](erp.aaro.com.tr/DemirbasHareketleri/Liste)
+**Erişim Linki :** [erp.aaro.com.tr/DemirbasHareketleri/Liste](https://erp.aaro.com.tr/DemirbasHareketleri/Liste)
 
 ### Ulaşım 
 
