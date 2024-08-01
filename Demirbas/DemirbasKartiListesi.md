@@ -8,21 +8,22 @@ SayfaTipi: KartListe
 **Erişim Linki :** [erp.aaro.com.tr/Demirbas/Liste](https://erp.aaro.com.tr/Demirbas/Liste)
 
 ### Ulaşım 
+Aşağıdaki şekillerle ulaşabilirsiniz:
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Demirbaş kartı listesi" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Demirbaş -> Demirbaş Modülü -> Demirbaş Kartı Listesi şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Demirbaş -> Listeler -> Demirbaş Kartı Listesi üzerinden ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "**Demirbaş kartı listesi**" aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden **Demirbaş -> Demirbaş Modülü -> Demirbaş Kartı Listesi** şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden **Demirbaş -> Listeler -> Demirbaş Kartı Listesi** üzerinden ulaşım sağlayabilirsiniz.
 
 ### Tanım 
 
-- Demirbaş kartlarının genel bilgilerini bu sayfadan görüntüleyebilirsiniz.[Demirbaş Kartı](../Demirbas/DemirbasKarti.md)
+- Demirbaş kartlarının genel bilgilerini bu sayfadan görüntüleyebilirsiniz. [Demirbaş Kartı](../Demirbas/DemirbasKarti.md)
 - Demirbaş kartlarının güncel bakiyelerini görüntüleyebilirsiniz.
 - Mevcut demirbaş kartlarını düzenleyebilir, silebilir veya yeni demirbaş hesaplarını bu sayfadan ekleyebilirsiniz.
 
 ### Ek Özellikler 
 
 - Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
-- Sayfada ki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
+- Sayfadaki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) aracılığıyla sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
 
 
 ### Ek İşlem Butonu

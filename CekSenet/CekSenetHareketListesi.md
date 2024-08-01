@@ -8,10 +8,11 @@ SayfaTipi: HareketListe
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetHareketleri/Liste](https://erp.aaro.com.tr/CekSenetHareketleri/Liste)
 
 ### Ulaşım 
+Aşağıdaki yollarla ulaşım sağlayabilirsiniz:
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Çek/Senet hareket listesi" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Çek/Senet -> Modül Sayfası -> Çek/Senet Hareketleri Listesi üzerinden ulaşım sağlayabilirsiniz. 
-- Sol menüden Çek/Senet -> Listeler -> Çek/Senet Hareketleri Listesi üzerinden ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "**Çek/Senet hareket listesi**" ifadesini aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden **Çek/Senet -> Modül Sayfası -> Çek/Senet Hareketleri Listesi** üzerinden ulaşım sağlayabilirsiniz. 
+- Sol menüden **Çek/Senet -> Listeler -> Çek/Senet Hareketleri Listesi** üzerinden ulaşım sağlayabilirsiniz.
 
 ### Tanım 
 
@@ -21,7 +22,7 @@ SayfaTipi: HareketListe
 ### Ek Özellikler 
 
 - Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
-- Sayfada ki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
+- Sayfadaki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) ile sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
 
 ### Ek İşlem Butonu
 

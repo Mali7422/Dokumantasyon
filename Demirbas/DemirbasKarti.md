@@ -9,15 +9,17 @@ SayfaTipi: Kart
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Demirbaş" olarak aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Demirbaş -> Demirbaş Modülü -> Demirbaş Kartı şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden Demirbaş -> Kartlar -> Demirbaş Kartı Listesi üzerinden ulaşım sağlayarak yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "**Demirbaş**" olarak aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden **Demirbaş -> Demirbaş Modülü -> Demirbaş Kartı** şeklinde ulaşım sağlayabilirsiniz. 
+- Sol menüden **Demirbaş -> Kartlar -> Demirbaş Kartı Listesi** üzerinden ulaşım sağlayabilrisiniz.
+
+Bölüm aracılığı ile yeni kart ekleyebilir yada mevcutları düzenleyebilirsiniz.
 
 ### Tanım
 
-Demirbaş kartından, işletmenin sahip olduğu sabit varlıkları, yani demirbaşları izleyebilir ve yönetebilirsiniz.
-Demirbaş kartından, demirbaşların envanterini, değerini, yerini ve kullanım durumunu takip edebilirsiniz.
-Demirbaş kartı, işletmenin demirbaşlarını etkin bir şekilde izlemesine, envanteri doğru bir şekilde yönetmesine ve finansal raporlama süreçlerini kolaylaştırmasına yardımcı olur.
+Demirbaş kartından; işletmenin sahip olduğu sabit varlıkları, yani demirbaşları izleyebilir ve yönetebilirsiniz.
+Aynı zamanda demirbaşların envanterini, değerini, yerini ve kullanım durumunu takip edebilirsiniz.
+Demirbaş kartı; işletmenin demirbaşlarını anlık olarak şekilde izlemesine, envanteri doğru bir şekilde yönetmesine ve finansal raporlama süreçlerini kolaylaştırmasına yardımcı olur.
 
 ### Genel
 
@@ -33,13 +35,13 @@ Demirbaş kartı, işletmenin demirbaşlarını etkin bir şekilde izlemesine, e
 
 ### Ölçü Birimleri
 
-**Birim 2:** Bu demirbaş kartı için ikinci ölçü birimidir.Kolay hesap yapmak ve raporlarda farklı cins rapor alabilmek için kullanılır.
+**Birim 2:** Bu demirbaş kartı için ikinci ölçü birimidir. Kolay hesap yapmak ve raporlarda farklı cins rapor alabilmek için kullanılır.
 
-**Birim 3:** Bu demirbaş kartı için üçüncü ölçü birimidir.Kolay hesap yapmak ve raporlarda farklı cins rapor alabilmek için kullanılır.
+**Birim 3:** Bu demirbaş kartı için üçüncü ölçü birimidir. Kolay hesap yapmak ve raporlarda farklı cins rapor alabilmek için kullanılır.
 
-**Çevrimiçi Birim2:** Birim-1 cinsinden bu demirbaşın kaç Birim-2 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-2:Deste ise bu deger = 0,1(1/10) olur.
+**Çevrimiçi Birim2:** Birim-1 cinsinden takip edilen demirbaşı ayarlanan brim-2 cinsine çevirir.Örneğin; Birim-1:Adet ve Birim-2:Deste ise değer = Adet/10 yani 0,1'e eşit olur.
 
-**Çevrimiçi Birim3:** Birim-1 cinsinden bu demirbaşın kaç Birim-3 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-3:Düzine ise bu deger = 0,083(1/12) olur.
+**Çevrimiçi Birim3:** Birim-1 cinsinden bu demirbaşın kaç Birim-3 cinsinden olduğunu belirtir.Örneğin; Birim-1:Adet ve Birim-3:Düzine ise değer = Adet/12 yani 0,083'e eşit olur olur.
 
 **Üretim Birim:** Üretimle ilgili raporlarda seçilen birim cinsinden rapor almanızı kolaylaştırır.
 
@@ -58,7 +60,7 @@ Demirbaş kartı, işletmenin demirbaşlarını etkin bir şekilde izlemesine, e
 
 ### Vergi Oranları
 
-**Vergi Oranları:** Bu demirbaş kartı için yapılacak işlemlerde kullanılacak vergi oranlarını(KDV oranınlarını) belirtir. **Girilmesi Zorunludur.**
+**Vergi Oranları:** Bu demirbaş kartı için yapılacak işlemlerde kullanılacak vergi oranlarını (KDV oranınlarını) belirtir. **Girilmesi Zorunludur.**
 
 **Muhasebe Tanımları:** [Muhasebeleşme Tanımları](../TemelOzellikler/MuhasebelesmeTanimlari.md)
 
@@ -71,7 +73,7 @@ Demirbaş kartı, işletmenin demirbaşlarını etkin bir şekilde izlemesine, e
 
 **Kısa Kodu:** Raporlama için gereklidir. 
 
-**Miktarsız:** Bu demirbaş miktarsız olarak belirtilirse miktar takibi yapılmaz, depoda gözükmez,eski bakiye kontrolü yapılmaz.
+**Miktarsız:** Bu demirbaş miktarsız olarak belirtilirse miktar takibi yapılmaz, depoda gözükmez, eski bakiye kontrolü yapılmaz.
 
 **Kısa Adı:** Raporlama için gereklidir. 
 
@@ -97,7 +99,7 @@ Demirbaşta bulunan kısayolları sekmesi ile demirbaşa ait ilgili raporlara ve
 
 Kartın hangi kullanıcı tarafından ve hangi tarihlerde oluşturulduğu ve değiştirildiği bilgisini içerir.
 
-Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
+Kart, iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından hangi tarihte onaylandığı bilgilerini içerir. 
 
 ## Yazdır
 
@@ -105,25 +107,25 @@ Kart iş akış süreçlerine dahil edildiğinde hangi kullanıcı tarafından h
 - Kartta bulunan bilgilerin kullanıcının isteğine bağlı olarak özel tasarım ile yazdırılmasını sağlar.
 - Birden çok çıktı tasarım yapılabilir ve değiştirilebilir.
 - Kullanıcıya özel ekstre, dövizli ekstre gibi farklı tasarımlar yapılabilir.
-- Çıktı tasarımlarının herbirine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının bilirli çıktılara ulaşması sağlanabilir.
+- Çıktı tasarımlarının her birine ayrı ayrı yetkiler verilerek sadece istenilen kullanıcının belirli çıktılara ulaşması sağlanabilir.
 - Çıktılar program üzerinden e-mail olarak gönderilebilir. 
 
 ## Ek İşlemler
 
- Sayfanın sağ üstünde bulunan alt altta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
+ Sayfanın sağ üstünde bulunan alt alta üç çizgi şeklinde olan düğme ile ek işlemlere ulaşılır.
 - [Anasayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
-- [Görev Oluştur]()
-- [Görev Bağla]()
+- [Görev Oluştur](../TemelOzellikler/GorevOlustur.md)
+- [Görev Bağla](../TemelOzellikler/GorevBagla.md)
 
 ## Belgeler
 
 Yapacağımız işlem için elimizde belgeler var ise jpeg, png, pdf vb. formatlarda bu belgeleri buraya yükleyebiliriz.
-Buraya işlem gerçekleşirken ki görselleri yükleyebiliriz.
+Buraya işlem gerçekleşirkenki görselleri yükleyebiliriz.
 
-Belge eklemek için tıklayalım ;
+Belge eklemek için tıklayalım:
 
-- Daha önce yüklediklerimden seç -> belgeyi seçelim -> İlişkilendir şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
-- Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçelim -> Yükle şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
+- **Daha önce yüklediklerimden seç -> belgeyi seçin -> İlişkilendir** şeklinde belge yükleme işleminizi gerçekleştirebilirsiniz.
+- **Yüklenecek belge veya resimleri seçin -> belgeyi ya da belgeleri seçin -> Yükle** şeklinde belge yükleme işlemimizi gerçekleştirebiliriz.
 
 Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler/Belgeler.md)
 
@@ -131,5 +133,5 @@ Belge kullanım detayları için linke tıklayınız. [Belge](../TemelOzellikler
 ## Notlar
 
 İşleme ait özel notlar belirtebiliriz. 
-Önemli bir detay var ise bu detayları burada belirtebiliriz.
-Notlar kullanım detayları için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)
+Önemli bir detay var ise bu detayı burada belirtebiliriz.
+Daha ayrıntılı bilgi için linke tıklayınız. [Notlar](../TemelOzellikler/Notlar.md)

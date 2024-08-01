@@ -9,9 +9,9 @@ SayfaTipi: KartListe
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Çek senet" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Musteri/Satici -> Modül Sayfası -> Çek/Senet Kartı Listesi üzerinden ulaşım sağlayabilirsiniz. 
-- Sol menüden Musteri/Satici -> Modül Sayfası -> Kartlar -> Çek/Senet Kartı Listesi üzerinden ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "**Çek senet**" ifadesini aratarak ulaşım sağlayabilirsiniz.
+- Sol menüden **Musteri/Satici -> Modül Sayfası -> Çek/Senet Kartı Listesi** üzerinden ulaşım sağlayabilirsiniz. 
+- Sol menüden **Musteri/Satici -> Modül Sayfası -> Kartlar -> Çek/Senet Kartı Listesi** üzerinden ulaşım sağlayabilirsiniz. 
 
 ### Tanım 
 
@@ -22,7 +22,7 @@ SayfaTipi: KartListe
 ### Ek Özellikler 
 
 - Sayfanın üst kısmında bulunan [Filtreleme](../TemelOzellikler/SayfaKisitlari.md) özelliği ile gelen veriyi istediğiniz şekilde sınırlandırabilirsiniz.
-- Sayfada ki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
+- Sayfadaki listeyi [Özel Listeleme](../TemelOzellikler/ListeNesnesi.md) sıralayabilir, yeniden boyutlandırabilir ve sayfa sayfa görüntüleyebilirsiniz.
 
 ### Ek İşlem Butonu
 

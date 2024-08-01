@@ -22,7 +22,7 @@ SayfaTipi: Hareket Olustur
 
 ### İrsaliye
 
-- [Satış İrsaliyesi](../TemelHareketler/Satisİrsaliyesi.md)
+- [Satış İrsaliyesi](../TemelHareketler/SatisIrsaliyesi.md)
 - [Alış İrsaliyesi](../TemelHareketler/Alisİrsaliyesi.md)
 - [Satış İade İrsaliyesi](../TemelHareketler/SatisİadeFaturasi.md)
 - [Alış İade İrsaliyesi](../TemelHareketler/AlisİadeFaturasi.md)

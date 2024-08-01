@@ -10,17 +10,17 @@ SayfaTipi: Modul
 ### Tanım 
 
 Bu modül, işletmelerin banka hesaplarını yönetmek için gereken çeşitli işlevleri sağlar. 
-Çek ve senet modülü, işletmenizin finansal süreçlerinde çek ve senetlerinizi izleyebilir, yönetebilir ve işleyebilirsiniz. 
+Çek ve senet modülü vasıtasıyla, işletmenizin finansal sürecinde oluşan çek ve senetlerinizi izleyebilir, yönetebilir ve işleyebilirsiniz. 
 Bu modül, çek ve senetlerle ilgili tüm işlemlerinizi kolaylaştırır.
 
-- İşletmenizin aldığı veya verdiği çek ve senetlerinizi kaydedebilirsiniz. Bu, çek veya senetin tutarı, numarası, tarihi, vadesi ve ilgili kişi veya kurum gibi bilgilerin saklanmasını sağlar.
-- Çek ve senetlerinizin vadesini takip edebilirsiniz ve uyarılar sağlar. Bu sayede işletmenizin, vadesi gelen çek ve senetlerini zamanında işleme koyabilir veya gerektiğinde ilgili kişilerle iletişime geçebilirsiniz.
-- Çek ve senetlerin tahsilatını veya ödemesini yönetebilirsiniz. Bu, çek veya senetin bankaya ibraz edilmesi, tahsilatının yapılması veya ödemenin gerçekleştirilmesi gibi işlemleri içerir.
-- Vadesi gelen çek ve senetler için otomatik uyarılar ve hatırlatıcılar sağlayabilirsiniz. Bu, işletmenizin zamanında harekete geçmesini sağlar ve vadeyi kaçırmadan işlemleri tamamlamanıza yardımcı olur.
+- İşletmenizin aldığı veya verdiği çek ve senetlerinizi kaydedebilirsiniz. Bu modül; çek veya senetin tutarı, numarası, tarihi, vadesi ve ilgili kişi veya kurum gibi bilgilerin saklanmasını sağlar.
+- Çek ve senetlerinizin vadesini takip edebilirsiniz. Vadesi gelme durumunda uyarılar sağlar. Bu sayede işletmeniz, vadesi gelen çek ve senetlerini zamanında işleme koyabilir veya gerektiğinde ilgili kişilerle iletişime geçebilir.
+- Çek ve senetlerin tahsilatını veya ödemesini yönetebilirsiniz. Bu; çek veya senetin bankaya ibraz edilmesi, tahsilatının yapılması veya ödemenin gerçekleştirilmesi gibi işlemleri içerir.
+- Vadesi gelen çek ve senetler için otomatik uyarılar ve hatırlatıcılar sağlayabilirsiniz. Böylece işletmenizin zamanında harekete geçmesini sağlar ve vadeyi kaçırmadan işlemleri tamamlamanıza yardımcı olur.
 - Çek ve senet işlemlerinzile ilgili detaylı raporlar ve analizler sunar. Bu raporlar, işletmenin çek ve senetlerle ilgili durumunu değerlendirmenize ve gelecekteki işlemlerinizi planlamanıza yardımcı olur.
 
 Çek ve senet modülü, işletmelerin finansal süreçlerini daha etkin bir şekilde yönetmenize yardımcı olur. 
-Bu modülden, çek ve senetlerin izleyebilir, takibi ve işlenmesini kolaylaştırırken aynı zamanda işletmenin nakit akışını etkin bir şekilde yönetmenize de olanak tanır.
+Bu modül; çek ve senetlerin izlenmesini, takibini ve işlenmesini kolaylaştırırken aynı zamanda işletmenin nakit akışını etkin bir şekilde yönetmenize de olanak tanır.
 
 ## Bu modülde yer alan işlemler;
 
@@ -53,7 +53,7 @@ Bu modülden, çek ve senetlerin izleyebilir, takibi ve işlenmesini kolaylaşt�
 	- Alınan Çek Senet Listesi (Dövizli)
 	- Verilen Çek Senet Listesi
 - Toplam Raporları
-	- Çek Senet Toplam Raporu (GeçmişteBelirliTarih)
+	- Çek Senet Toplam Raporu (Geçmişte belirli tarih)
 	- Çek Senet Toplam Raporu (Tarih)
 	- Çek Senet Toplam Raporu (Vade)
 	- Çek/Senet Hareketleri
@@ -71,17 +71,17 @@ Bu modülden, çek ve senetlerin izleyebilir, takibi ve işlenmesini kolaylaşt�
 	- CekSenet_AlinanSenetTakipteMuhasebeKodu (Çek/Senet Hareketleri): Senetler için ön tanımlı Takip muhasebe kodu
 
 - Tasarım Parametreleri
-	- Tasarim_CekSenetYedekD1Baslik (Çek/Senet Hareketleri): Çek/Senet sayfalarında Ek Sayısal 1 için istenilen label yazısını ayarlar. 0 olarak girilirse, ekranda gözükmez.
-	- Tasarim_CekSenetYedekD2Baslik (Çek/Senet Hareketleri): Çek/Senet sayfalarında Ek Sayısal 2 için istenilen label yazısını ayarlar. 0 olarak girilirse, ekranda gözükmez.
-	- Tasarim_CekSenetYedekD3Baslik (Çek/Senet Hareketleri): Çek/Senet sayfalarında Ek Sayısal 3 için istenilen label yazısını ayarlar. 0 olarak girilirse, ekranda gözükmez.
-	- Tasarim_CekSenetYedekS1Baslik (Çek/Senet Hareketleri): Çek/Senet sayfalarında Ek Metin 1 için istenilen label yazısını ayarlar. 0 olarak girilirse, ekranda gözükmez.
-	- Tasarim_CekSenetYedekS2Baslik (Çek/Senet Hareketleri): Çek/Senet sayfalarında Ek Metin 2 için istenilen label yazısını ayarlar. 0 olarak girilirse, ekranda gözükmez.
-	- Tasarim_CekSenetYedekS3Baslik (Çek/Senet Hareketleri): Çek/Senet sayfalarında Ek Metin 3 için istenilen label yazısını ayarlar. 0 olarak girilirse, ekranda gözükmez.
+	- Tasarim_CekSenetYedekD1Baslik (Çek/Senet Hareketleri): Çek/Senet sayfalarında Ek Sayısal 1 için istenilen label yazısını ayarlar. 0 olarak girilirse ekranda gözükmez.
+	- Tasarim_CekSenetYedekD2Baslik (Çek/Senet Hareketleri): Çek/Senet sayfalarında Ek Sayısal 2 için istenilen label yazısını ayarlar. 0 olarak girilirse ekranda gözükmez.
+	- Tasarim_CekSenetYedekD3Baslik (Çek/Senet Hareketleri): Çek/Senet sayfalarında Ek Sayısal 3 için istenilen label yazısını ayarlar. 0 olarak girilirse ekranda gözükmez.
+	- Tasarim_CekSenetYedekS1Baslik (Çek/Senet Hareketleri): Çek/Senet sayfalarında Ek Metin 1 için istenilen label yazısını ayarlar. 0 olarak girilirse ekranda gözükmez.
+	- Tasarim_CekSenetYedekS2Baslik (Çek/Senet Hareketleri): Çek/Senet sayfalarında Ek Metin 2 için istenilen label yazısını ayarlar. 0 olarak girilirse ekranda gözükmez.
+	- Tasarim_CekSenetYedekS3Baslik (Çek/Senet Hareketleri): Çek/Senet sayfalarında Ek Metin 3 için istenilen label yazısını ayarlar. 0 olarak girilirse ekranda gözükmez.
 
 - Muhasebeleşme Parametreleri
 	- Muhasebelesme_BankaHesapTahsildekiCekMuhKodu (Muhasebeleşme Kartları): Hesap planında hangi ana hesabın altına otomatik olarak hesap açılacağını tanımlar. Banka Hesap Tahsildeki Çek için ön değeri 101'dir.
 	- Muhasebelesme_CekAlinanMuhKodu (Muhasebeleşme Kartları): Hesap planında hangi ana hesabın altına otomatik olarak hesap açılacağını tanımlar. Çek Alınan için ön değeri 101'dir.
 	- Muhasebelesme_CekVerilenMuhKodu (Muhasebeleşme Kartları): Hesap planında hangi ana hesabın altına otomatik olarak hesap açılacağını tanımlar. Çek Verilen için ön değeri 103'tür.
 	- Muhasebelesme_CekAlinanTakipteMuhKodu (Muhasebeleşme Kartları): Hesap planında hangi ana hesabın altına otomatik olarak hesap açılacağını tanımlar. Çek Alınan Takipte için ön değeri 101'dir
-	- Muhasebelesme_CekOtomatikYeniAc (Muhasebeleşme Kartları): Yeni Cek Kartı açılırken otomatik Yeni Muhesebeleşme Kartımı yapılsın yoksa mevcut Muhesebeleşme Kartlarından mı seçsin onu belirtir.
-	- Muhasebelesme_CekStandart (Muhasebeleşme Kartları): Yeni Cek Kartı açılırken otomatik hangi Muhesebeleşme Kartı ile eşleştirilecegini belirtir. 'OtomatikYeniAc' parametresi 'Hayır' secildi ise çalışır.
+	- Muhasebelesme_CekOtomatikYeniAc (Muhasebeleşme Kartları): Yeni Çek Kartı açılırken otomatik Yeni Muhesebeleşme Kartımı yapılsın yoksa mevcut Muhesebeleşme Kartlarından mı seçsin onu belirtir.
+	- Muhasebelesme_CekStandart (Muhasebeleşme Kartları): Yeni Çek Kartı açılırken otomatik hangi Muhesebeleşme Kartı ile eşleştirilecegini belirtir. 'OtomatikYeniAc' parametresi 'Hayır' seçildi ise çalışır.
